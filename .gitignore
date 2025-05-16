@@ -58,5 +58,5 @@ local_settings.py
 scraper.py
 
 # JSON data files
-career.json
-player.json
+careers.json
+players.json
