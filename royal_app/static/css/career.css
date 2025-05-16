@@ -1,0 +1,183 @@
+/* --- Career item --- */
+.career-item {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: center;
+    padding: 2px;
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
+.career-image {
+    flex-basis: 40px;
+    flex-shrink: 0;
+    height: 40px;
+    width: 40px;
+    margin-right: 10px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.career-name {
+    flex-grow: 1;
+    font-family: system-ui;
+    font-size: 14px;
+    font-weight: bold;
+    color: #012B5A;
+    text-align: left;
+}
+
+.career-item:hover .career-name {
+    color: whitesmoke;
+}
+
+/* --- Tarjeta del Jugador Seleccionado --- */
+#career-card {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 300px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+#career-card::-webkit-scrollbar {
+    width: 6px;
+}
+
+#career-card::-webkit-scrollbar-thumb {
+    background-color: transparent;
+    border-radius: 10px;
+}
+
+#career-card::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.career-container-name {
+    display: flex;
+    width: 100%;
+    margin-bottom: 10px;
+    justify-content: center;
+    align-items: center;
+    font-family: system-ui;
+    font-size: 12px;
+    font-weight: bold;
+    color: whitesmoke;
+    text-shadow: 0px 2px 0px rgb(40, 40, 40);
+}
+
+.career-title {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-around;
+    font-size: 12px;
+    font-family: system-ui;
+    font-weight: bold;
+    color: rgba(245, 245, 245, 0.8);
+    text-shadow: 0px 2px 0px rgb(40, 40, 40);
+    margin-bottom: 5px;
+}
+
+.career-container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.career-container img {
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+}
+
+
+/* --- Animaciones --- */
+.animated-name {
+    transform: translateY(20px);
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out, transform 1s ease;
+}
+
+.animated-name.show {
+    transform: translateY(0);
+    opacity: 1;
+}
+
+.animated-name.initial-delay {
+    transition-delay: 1200ms;
+}
+
+.animated-info {
+    position: relative;
+    display: flex;
+    width: 100%;
+    max-width: 400px;
+    height: 50px;
+    margin: 0 5px;
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+    font-family: system-ui;
+    font-weight: bold;
+    color: whitesmoke;
+    min-width: 0;
+    transform: translateY(20px);
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out, transform 1s ease;
+}
+
+.animated-info.show {
+    transform: translateY(0);
+    opacity: 1;
+}
+
+.animated-info.initial-delay {
+    transition-delay: 100ms;
+}
+
+/* --- Fondos y Bordes --- */
+.meta-background {
+    width: 80px;
+    background-position: center;
+    background-color: rgb(99, 99, 99);
+    border-radius: 10px;
+    border-bottom: 4px solid rgb(40, 40, 40);
+}
+
+/* --- Textos --- */
+.text-animation {
+    text-align: center;
+    font-size: 22px;
+    text-shadow: 0px 2px 0px rgb(40, 40, 40);
+    object-fit: cover;
+}
+
+/* --- Imágenes --- */
+.club-image {
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+}
+
+/* --- Intentos (Attempts) --- */
+.attempts-card {
+    width: 100px;    
+    background-color: #03658C;
+    border-top: 4px solid #012B5A;    
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+#attempts-container {
+    flex-grow: 1;
+    padding: 12px 12px;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    color: whitesmoke;
+}

@@ -1,0 +1,55 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folder
+royal_venv/
+
+# Django migrations (ignore pyc but keep __init__.py)
+*/migrations/*.pyc
+*/migrations/__pycache__/
+!*/migrations/__init__.py
+
+# Django static files (collectstatic output)
+staticfiles/
+
+# Media files uploaded by users
+media/
+
+# Environment variables file
+.env
+
+# IDE/editor folders and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+db.sqlite3
+
+# Celery beat schedule file
+celerybeat-schedule*
+celerybeat-schedule.*
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# Pytest cache
+.pytest_cache/
+
+# MyPy cache
+.mypy_cache/
+
+# Local settings override
+local_settings.py

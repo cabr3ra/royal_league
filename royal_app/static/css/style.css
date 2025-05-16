@@ -1,0 +1,439 @@
+/* ================================
+   GENERAL STYLES
+================================ */
+body {
+    font-family: system-ui, sans-serif;
+    background-color: rgba(0, 0, 0, 0.9);
+    background-image: url('/static/img/bg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+/* ================================
+   NAVIGATION
+================================ */
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    position: relative;
+}
+
+.toogle-menu {
+    position: absolute;
+    left: 10px;
+}
+
+.logo-container {
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    align-items: center;
+}
+
+.menu-button {
+    background: none;
+    border: none;
+    font-size: 28px;
+    cursor: pointer;
+    color: whitesmoke;
+}
+
+.logo {
+    width: 40px;
+    transition: transform 0.4s ease;
+}
+
+.x-left,
+.x-right {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 16px;
+    font-weight: bold;
+    color: whitesmoke;
+    text-shadow: 0px 2px 0px rgb(40, 40, 40);
+    opacity: 0;
+    transition: opacity 0.4s ease, transform 0.4s ease;
+}
+
+.x-left {
+    left: -10px;
+}
+
+.x-right {
+    right: -40px;
+}
+
+.logo-container:hover .logo {
+    transform: scale(1.3);
+}
+
+.logo-container:hover .x-right {
+    opacity: 1;
+    transform: translateX(45px) translateY(-50%);
+}
+
+.logo-container:hover .x-left {
+    opacity: 1;
+    transform: translateX(-65px) translateY(-50%);
+}
+
+/* ================================
+   MAIN LAYOUT & ADS
+================================ */
+.main-content {
+    display: flex;
+    width: 100%;
+    height: 80vh;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.ad-column {
+    position: relative;
+    width: 250px;
+    height: 80%;
+    margin: 0 100px;
+    box-sizing: border-box;
+    align-self: center;
+    font-family: system-ui;
+}
+
+.left-ad {
+    text-align: right;
+}
+
+.right-ad {
+    position: relative;
+    overflow: hidden;
+}
+
+.ad-column.right-ad img {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 10px;
+    z-index: 1;
+}
+
+@keyframes cycle {
+    100% { transform: scale(1); }
+}
+
+/* ================================
+   CHAT
+================================ */
+.chat-container {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding: 5px;
+}
+
+.chat-list {
+    display: flex;
+    flex-direction: column;
+    width: 95%;
+    gap: 5px;
+    align-items: flex-end;
+}
+
+.chat {
+    display: inline-block;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: rgb(0, 100, 90);
+    color: whitesmoke;
+    font-family: system-ui;
+    font-size: 16px;
+    text-shadow: 0px 2px 0px rgb(40, 40, 40);
+    opacity: 0;
+    animation: fadeIn 1s forwards;
+}
+
+.chat-list .chat:nth-child(1) { animation-delay: 1s; }
+.chat-list .chat:nth-child(2) { animation-delay: 2s; }
+.chat-list .chat:nth-child(3) { animation-delay: 3s; }
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to   { opacity: 1; transform: translateY(0); }
+}
+
+/* ================================
+   CONTENT WRAPPER
+================================ */
+.center-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 500px;
+    align-items: center;
+}
+
+/* ================================
+   FOOTER
+================================ */
+footer {
+    background-color: rgba(40, 40, 40, 0.4);
+    color: rgba(245, 245, 245, 0.8);
+    text-align: center;
+    padding: 10px 0;
+    font-family: system-ui;
+    font-size: 12px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+footer p {
+    margin: 0;
+}
+
+/* ================================
+   MENU
+================================ */
+.menu {
+    position: relative;
+    top: 0;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    z-index: 1000;
+}
+
+.menu-item {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(69, 69, 69);
+    border-radius: 10px;
+    border-bottom: 4px solid rgb(40, 40, 40);
+    padding: 10px;
+    width: 32px;
+    overflow: hidden;
+    transition: width 0.5s ease;
+}
+
+.menu-link {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+    text-decoration: none;
+    white-space: nowrap;
+    overflow: hidden;
+    position: relative;
+}
+
+.menu-text {
+    font-size: 14px;
+    font-weight: bold;
+    font-family: system-ui;
+    color: whitesmoke;
+    text-shadow: 0px 2px 0px rgb(40, 40, 40);
+    transition: opacity 0.5s ease, transform 0.5s ease;
+    opacity: 0;
+    transform: translateX(-10px);
+}
+
+.menu-item:hover {
+    width: 62%;
+}
+
+.menu-logo {
+    width: 32px;
+    height: 32px;
+    flex-shrink: 0;
+}
+
+.menu-item:hover .menu-text {
+    opacity: 1;
+    transform: translateX(0);
+}
+
+/* ================================
+   SEARCH BAR
+================================ */
+.search-card {
+    width: 300px;
+    background-color: #03658C;
+    border-bottom: 4px solid #012B5A;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+.search-container {
+    display: flex;
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    border-radius: 8px;
+}
+
+.search-input {
+    flex-grow: 1;
+    padding: 12px 12px;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    font-family: system-ui;
+    background-color: #03658C;
+    color: #012B5A;
+}
+
+.search-input::placeholder {
+    color: #012B5A;
+    font-family: system-ui;
+    font-size: 16px;
+}
+
+/* ================================
+   SEARCH RESULTS
+================================ */
+#results-container {
+    display: flex;
+    flex-direction: column;
+    max-height: 135px;
+    overflow-y: auto;
+    background-color: transparent;
+    color: #012B5A;
+    text-align: center;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+#results-container::-webkit-scrollbar {
+    width: 6px;
+}
+
+#results-container::-webkit-scrollbar-thumb {
+    background-color: transparent;
+    border-radius: 10px;
+}
+
+#results-container::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+/* ================================
+   END MESSAGE
+================================ */
+.end-message {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 10;
+    padding: 20px;
+    text-align: center;
+    pointer-events: auto;
+    width: auto;
+    height: 110px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.end-message img {
+    max-width: 100%;
+    max-height: 100%;
+    opacity: 0.9;
+}
+
+.end-message-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 9;
+    pointer-events: none;
+}
+
+@keyframes zoomIn {
+    0% {
+        transform: scale(0.5);
+        opacity: 0;
+    }
+    100% {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
+.message {
+    text-align: center;
+    font-family: system-ui;
+    font-weight: bold;
+    padding: 10px;
+    color: whitesmoke;
+    animation: zoomIn 0.8s ease-in-out;
+}
+
+.message img {
+    width: auto;
+    height: auto;
+    max-width: 90px;
+    max-height: 90px;
+    border-radius: 50%;
+}
+
+.message-green {
+    width: 90px;
+    background-color: #4CAF50;
+    border-radius: 50%;
+    border-bottom: 4px solid rgb(0, 120, 0);
+}
+
+.message-red {
+    background-color: rgb(175, 76, 80);
+    border-radius: 50%;
+    border-bottom: 4px solid rgb(120, 0, 0);
+}
+
+/* ================================
+   RESPONSIVE
+================================ */
+@media (max-width: 768px) {
+    .main-content {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .ad-column {
+        width: 100%;
+    }
+
+    .container {
+        width: 95%;
+    }
+}

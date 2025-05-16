@@ -1,0 +1,119 @@
+[
+    {
+        "id": 1,
+        "image": "https://transferkings.es/wp-content/uploads/2024/04/paufer.png",
+        "number": 6,
+        "name": "Pau Fer",
+        "nation": {
+            "text": "esp",
+            "image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/esp.png"
+        },
+        "position": [
+            "Medio"
+        ],
+        "value_million": 60,
+        "height": "1,82",
+        "current_team": {
+            "text": "Jijantes FC",
+            "image": "https://transferkings.es/wp-content/uploads/2024/05/Jijantes-128x128.png"
+        },
+        "past_teams": [
+            "El Barrio",
+            "PIO FC"
+        ],
+        "birth_date": "25 de mayo de 2001",
+        "age": 23,
+        "nation_text": "esp",
+        "nation_image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/esp.png",
+        "current_team_text": "Jijantes FC",
+        "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Jijantes-128x128.png"
+    },
+    {
+        "id": 2,
+        "image": "https://transferkings.es/wp-content/uploads/1999/11/victor-vidal.png",
+        "number": 24,
+        "name": "V\u00edctor Vidal",
+        "nation": {
+            "text": "esp",
+            "image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/esp.png"
+        },
+        "position": [
+            "Portero"
+        ],
+        "value_million": 110,
+        "height": "1,80",
+        "current_team": {
+            "text": "Jijantes FC",
+            "image": "https://transferkings.es/wp-content/uploads/2024/05/Jijantes-128x128.png"
+        },
+        "past_teams": [
+            "Espa\u00f1a",
+            "Ultimate M\u00f3stoles"
+        ],
+        "birth_date": "14 de noviembre de 1999",
+        "age": 25,
+        "nation_text": "esp",
+        "nation_image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/esp.png",
+        "current_team_text": "Jijantes FC",
+        "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Jijantes-128x128.png"
+    },
+    {
+        "id": 3,
+        "image": "https://transferkings.es/wp-content/uploads/2024/04/dani-perez.png",
+        "number": 5,
+        "name": "Dani P\u00e9rez",
+        "nation": {
+            "text": "esp",
+            "image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/esp.png"
+        },
+        "position": [
+            "Defensa"
+        ],
+        "value_million": 80,
+        "height": "1,74",
+        "current_team": {
+            "text": "Rayo de Barcelona",
+            "image": "https://transferkings.es/wp-content/uploads/2024/05/Rayo-de-Barcelona-128x128.png"
+        },
+        "past_teams": [
+            "xBuyer Team"
+        ],
+        "birth_date": "11 de marzo de 1997",
+        "age": 28,
+        "nation_text": "esp",
+        "nation_image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/esp.png",
+        "current_team_text": "Rayo de Barcelona",
+        "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Rayo-de-Barcelona-128x128.png"
+    },
+    {
+        "id": 4,
+        "image": "https://transferkings.es/wp-content/uploads/2024/04/499435164.png",
+        "number": 25,
+        "name": "Dani P\u00e9rez",
+        "nation": {
+            "text": "esp",
+            "image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/esp.png"
+        },
+        "position": [
+            "Portero"
+        ],
+        "value_million": 84,
+        "height": "1,80",
+        "current_team": {
+            "text": "PIO FC",
+            "image": "https://transferkings.es/wp-content/uploads/2024/05/PIO-128x128.png"
+        },
+        "past_teams": [
+            "Aniquiladores FC",
+            "Espa\u00f1a",
+            "PIO FC",
+            "Saiyans FC"
+        ],
+        "birth_date": "7 de octubre de 1998",
+        "age": 26,
+        "nation_text": "esp",
+        "nation_image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/esp.png",
+        "current_team_text": "PIO FC",
+        "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/PIO-128x128.png"
+    }
+]

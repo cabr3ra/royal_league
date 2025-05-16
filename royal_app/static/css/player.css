@@ -1,0 +1,212 @@
+/* =============================
+   Player Item
+============================= */
+.player-item {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: center;
+    padding: 2px;
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
+.player-image {
+    flex-basis: 40px;
+    flex-shrink: 0;
+    height: 40px;
+    width: 40px;
+    margin-right: 10px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.player-name {
+    flex-grow: 1;
+    font-family: system-ui;
+    font-size: 14px;
+    font-weight: bold;
+    color: #012B5A;
+    text-align: left;
+}
+
+.player-item:hover .player-name {
+    color: whitesmoke;
+}
+
+/* =============================
+   Selected Player Card
+============================= */
+#player-card {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 300px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+#player-card::-webkit-scrollbar {
+    width: 6px;
+}
+
+#player-card::-webkit-scrollbar-thumb {
+    background-color: transparent;
+    border-radius: 10px;
+}
+
+#player-card::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.player-container-name {
+    display: flex;
+    width: 100%;
+    margin-bottom: 10px;
+    justify-content: center;
+    align-items: center;
+    font-family: system-ui;
+    font-size: 12px;
+    font-weight: bold;
+    color: whitesmoke;
+    text-shadow: 0px 2px 0px rgb(40, 40, 40);
+}
+
+.player-container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: auto;
+    justify-content: space-around;
+}
+
+#player-title {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-around;
+}
+
+#player-title p {
+    font-size: 12px;
+    font-family: system-ui;
+    font-weight: bold;
+    color: rgba(245, 245, 245, 0.8);
+    text-shadow: 0px 2px 0px rgb(40, 40, 40);
+}
+
+/* =============================
+   Animations
+============================= */
+.animated-name {
+    transform: translateY(20px);
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out, transform 1s ease;
+}
+
+.animated-name.show {
+    transform: translateY(0);
+    opacity: 1;
+}
+
+.animated-name.initial-delay {
+    transition-delay: 1200ms;
+}
+
+.animated-info {
+    position: relative;
+    display: flex;
+    width: 100%;
+    max-width: 400px;
+    height: 50px;
+    margin: 0 5px;
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+    font-family: system-ui;
+    font-weight: bold;
+    color: whitesmoke;
+    min-width: 0;
+    transform: translateY(20px);
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out, transform 1s ease;
+}
+
+.animated-info.show {
+    transform: translateY(0);
+    opacity: 1;
+}
+
+.animated-info.initial-delay {
+    transition-delay: 100ms;
+}
+
+/* =============================
+   Backgrounds and Borders
+============================= */
+.meta-background {
+    background-position: center;
+    background-color: rgb(99, 99, 99);
+    border-radius: 10px;
+    border-bottom: 4px solid rgb(40, 40, 40);
+}
+
+/* =============================
+   Text Styles
+============================= */
+.text-animation {
+    text-align: center;
+    font-size: 22px;
+    text-shadow: 0px 2px 0px rgb(40, 40, 40);
+    object-fit: cover;
+}
+
+.text-animation-position {
+    text-align: center;
+    font-size: 12px;
+    text-shadow: 0px 2px 0 rgb(44, 44, 44);
+    object-fit: cover;
+}
+
+.text-animation-test {
+    text-align: center;
+    font-size: 16px;
+    text-shadow: 0px 2px 0px rgb(40, 40, 40);
+    object-fit: cover;
+}
+
+/* =============================
+   Images
+============================= */
+.club-image {
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+}
+
+.nation-image {
+    width: 30px;
+    height: 25px;
+    object-fit: cover;
+}
+
+/* =============================
+   Attempts Section
+============================= */
+.attempts-card {
+    width: 100px;
+    background-color: #03658C;
+    border-top: 4px solid #012B5A;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+#attempts-container {
+    flex-grow: 1;
+    padding: 12px 12px;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    color: whitesmoke;
+}

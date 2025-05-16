@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Royal League</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+    <link rel="stylesheet" href="/static/css/player.css">
+    <link rel="icon" href="/static/img/logo.png" type="image/x-icon">
+</head>
+<body>
+    <nav>
+        <div class="logo-container">
+            <img src="/static/img/logo.png" alt="Logo" class="logo">
+            <span class="x-left">ROYAL</span>
+            <span class="x-right">LEAGUE</span>
+        </div>
+    </nav>
+    <div class="main-content">
+        <div class="ad-column left-ad">
+            <div class="menu">
+                <div class="menu-item">
+                    <a href="/" class="menu-link">
+                        <img src="/static/img/logo.png" alt="Logo" class="menu-logo">
+                        <span class="menu-text">ROYAL LEAGUE</span>                        
+                    </a>
+                </div>
+                <div class="menu-item">
+                    <a href="/player" class="menu-link">
+                        <img src="/static/img/boot.png" alt="Boot" class="menu-logo">
+                        <span class="menu-text">¿Que Jugador Es?</span>
+                    </a>
+                </div>
+                <div class="menu-item">
+                    <a href="/career" class="menu-link">
+                        <img src="/static/img/player.png" alt="Player" class="menu-logo">
+                        <span class="menu-text">¿Que Carrera Es?</span>
+                    </a>
+                </div>
+                <div class="menu-item">
+                    <a href="/clock" class="menu-link">
+                        <img src="/static/img/clock.png" alt="Clock" class="menu-logo">
+                        <span class="menu-text">Contrareloj</span>
+                    </a>
+                </div>
+                <div class="menu-item">
+                    <a href="/train" class="menu-link">
+                        <img src="/static/img/goal.png" alt="Goal" class="menu-logo">
+                        <span class="menu-text">Modo Practica</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="center-content">
+            <!-- Final message -->
+            <div class="end-message"></div>
+
+            <div class="container">
+                
+                <!-- Search card -->
+                <div class="search-card">
+                    <div class="search-container">
+                        <input type="text" class="search-input">
+                    </div>
+                    <div id="results-container"></div>
+                </div>
+
+                <!-- Selected player card -->
+                <div id="player-title"></div>
+                <div id="player-card"></div>
+
+            </div>
+        </div>
+        <div class="ad-column right-ad">
+            <!-- Background image -->
+            <img src="/static/img/me.png" alt="Chat background">
+            
+            <!-- Chat container over the image -->
+            <div class="chat-container">
+                <div class="chat-list">
+                    <div class="chat">Buenas</div>
+                    <div class="chat">¿Quieres practicar?</div>
+                    <div class="chat">Aqui podrás jugar todo el tiempo que quieras</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <p>© 2025 || Todos los logotipos y marcas son propiedad de sus respectivos propietarios y se utilizan solo para fines de identificación.</p>
+    </footer>
+
+    <script src="/static/js/train.js"></script>
+</body>
+</html>
