@@ -56,3 +56,7 @@ local_settings.py
 
 # Scraper script
 scraper.py
+
+# JSON data files
+career.json
+player.json
