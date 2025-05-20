@@ -8,13 +8,13 @@ class Player(models.Model):
     name = models.CharField(max_length=255)
     nation_text = models.CharField(max_length=255, null=True, blank=True)
     nation_image = models.URLField(null=True, blank=True)
-    position = models.JSONField(default=list)
+    position = models.JSONField(null=True, default=list)
     value_million = models.IntegerField(null=True, blank=True)
-    height = models.CharField(max_length=255)
-    current_team_text = models.CharField(max_length=255)
+    height = models.CharField(max_length=255, null=True, blank=True)
+    current_team_text = models.CharField(max_length=255, null=True, blank=True)
     current_team_image = models.URLField(null=True, blank=True)
-    past_teams = models.CharField(max_length=255)
-    birth_date = models.CharField(max_length=255)
+    past_teams = models.CharField(max_length=255, null=True, blank=True)
+    birth_date = models.CharField(max_length=255, null=True, blank=True)
     age = models.IntegerField(null=True, blank=True)
 
     def __str__(self):

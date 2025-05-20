@@ -189,8 +189,6 @@ document.addEventListener('DOMContentLoaded', function() {
         // Obtener historial de carreras del jugador
         fetchData(`/search/career/?player_id=${player.id}`)
             .then(careers => {
-                console.log("[DEBUG] Careers fetched:", careers);
-
                 careers.forEach(career => {
 
                     if (career && career.team && career.season) {

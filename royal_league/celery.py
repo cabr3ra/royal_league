@@ -11,11 +11,13 @@ app = Celery('royal_league')
 app.conf.worker_concurrency = 1
 app.conf.worker_pool = 'solo'
 
+redis_url = os.getenv('REDIS_URL', 'redis://localhost:6379/0')
+
 # Configure Celery's message broker and result backend
 # These settings are used if not already set in Django's settings
 app.conf.update(
-    broker_url='redis://localhost:6379/0',    # Where Celery gets messages
-    result_backend='redis://localhost:6379/0' # Where Celery saves results
+    broker_url=redis_url,    # Where Celery gets messages
+    result_backend=redis_url # Where Celery saves results
 )
 
 # Load Celery settings from Django's settings file
