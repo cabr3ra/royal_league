@@ -14,10 +14,11 @@
         "value_million": 128,
         "height": "1,73",
         "current_team": {
-            "text": "Aniquiladores FC",
-            "image": "https://transferkings.es/wp-content/uploads/2024/05/Aniquiladores-128x128.png"
+            "text": "Kunisports",
+            "image": "https://transferkings.es/wp-content/uploads/2025/02/kunisports-128x128.png"
         },
         "past_teams": [
+            "Aniquiladores FC",
             "Espa\u00f1a",
             "Porcinos FC"
         ],
@@ -25,8 +26,8 @@
         "age": 32,
         "nation_text": "esp",
         "nation_image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/esp.png",
-        "current_team_text": "Aniquiladores FC",
-        "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Aniquiladores-128x128.png"
+        "current_team_text": "Kunisports",
+        "current_team_image": "https://transferkings.es/wp-content/uploads/2025/02/kunisports-128x128.png"
     },
     {
         "id": 2,
@@ -80,7 +81,7 @@
             "Marruecos"
         ],
         "birth_date": "29 de mayo de 2003",
-        "age": 21,
+        "age": 22,
         "nation_text": "mar",
         "nation_image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/mar.png",
         "current_team_text": "Porcinos FC",
@@ -129,7 +130,7 @@
         "position": [
             "Defensa"
         ],
-        "value_million": 118,
+        "value_million": 120,
         "height": "1,75",
         "current_team": {
             "text": "Los Troncos FC",
@@ -218,7 +219,7 @@
         "position": [
             "Medio"
         ],
-        "value_million": 120,
+        "value_million": 121,
         "height": "1,72",
         "current_team": {
             "text": "Los Troncos FC",
@@ -277,7 +278,7 @@
             "Defensa",
             "Banda"
         ],
-        "value_million": 116,
+        "value_million": 115,
         "height": "1,80",
         "current_team": {
             "text": "Los Troncos FC",
@@ -340,7 +341,7 @@
             "Defensa",
             "Banda"
         ],
-        "value_million": 119,
+        "value_million": 118,
         "height": "1,83",
         "current_team": {
             "text": "Ultimate M\u00f3stoles",
@@ -458,7 +459,7 @@
         "position": [
             "Defensa"
         ],
-        "value_million": 111,
+        "value_million": 112,
         "height": "1,82",
         "current_team": {
             "text": "Ultimate M\u00f3stoles",
@@ -476,36 +477,6 @@
     },
     {
         "id": 17,
-        "image": "https://transferkings.es/wp-content/uploads/2024/06/fran-hernandez.png",
-        "number": 10,
-        "name": "Fran Hern\u00e1ndez",
-        "nation": {
-            "text": "esp",
-            "image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/esp.png"
-        },
-        "position": [
-            "Medio"
-        ],
-        "value_million": 110,
-        "height": "1,81",
-        "current_team": {
-            "text": "Gear 7 FC",
-            "image": "https://transferkings.es/wp-content/uploads/2022/11/Gear7-FC-128x128.png"
-        },
-        "past_teams": [
-            "Aniquiladores FC",
-            "Kunisports",
-            "Real Tit\u00e1n FC"
-        ],
-        "birth_date": "8 de abril de 1994",
-        "age": 31,
-        "nation_text": "esp",
-        "nation_image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/esp.png",
-        "current_team_text": "Gear 7 FC",
-        "current_team_image": "https://transferkings.es/wp-content/uploads/2022/11/Gear7-FC-128x128.png"
-    },
-    {
-        "id": 18,
         "image": "https://transferkings.es/wp-content/uploads/1993/03/Diego-de-la-Mata-231x300.png",
         "number": 21,
         "name": "Diego de la Mata",
@@ -517,7 +488,7 @@
             "Defensa",
             "Banda"
         ],
-        "value_million": 108,
+        "value_million": 110,
         "height": "1,76",
         "current_team": {
             "text": "Ultimate M\u00f3stoles",
@@ -534,7 +505,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Ultimate-Mostoles-128x128.png"
     },
     {
-        "id": 19,
+        "id": 18,
         "image": "https://transferkings.es/wp-content/uploads/1999/11/victor-vidal.png",
         "number": 24,
         "name": "V\u00edctor Vidal",
@@ -563,7 +534,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Jijantes-128x128.png"
     },
     {
-        "id": 20,
+        "id": 19,
         "image": "https://transferkings.es/wp-content/uploads/1985/05/Jordi-Gomez-231x300.png",
         "number": 14,
         "name": "Jordi G\u00f3mez",
@@ -585,14 +556,14 @@
             "Kunisports"
         ],
         "birth_date": "24 de mayo de 1985",
-        "age": 39,
+        "age": 40,
         "nation_text": "esp",
         "nation_image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/esp.png",
         "current_team_text": "Los Troncos FC",
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Los-Troncos-128x128.png"
     },
     {
-        "id": 21,
+        "id": 20,
         "image": "https://transferkings.es/wp-content/uploads/2000/02/nico-santos2-231x300.png",
         "number": 10,
         "name": "Nico Santos",
@@ -606,22 +577,21 @@
         "value_million": 108,
         "height": "1,84",
         "current_team": {
-            "text": "1K FC",
-            "image": "https://transferkings.es/wp-content/uploads/2024/02/1k-nuevo-128x128.png"
+            "text": "1K FC, Porcinos FC",
+            "image": null
         },
         "past_teams": [
-            "Espa\u00f1a",
-            "Porcinos FC"
+            "Espa\u00f1a"
         ],
         "birth_date": "7 de febrero de 2000",
         "age": 25,
         "nation_text": "esp",
         "nation_image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/esp.png",
-        "current_team_text": "1K FC",
-        "current_team_image": "https://transferkings.es/wp-content/uploads/2024/02/1k-nuevo-128x128.png"
+        "current_team_text": "1K FC, Porcinos FC",
+        "current_team_image": null
     },
     {
-        "id": 22,
+        "id": 21,
         "image": "https://transferkings.es/wp-content/uploads/1999/11/coro.png",
         "number": 8,
         "name": "Ferran Corominas",
@@ -649,7 +619,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Ultimate-Mostoles-128x128.png"
     },
     {
-        "id": 23,
+        "id": 22,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/gerard-nolla.png",
         "number": 30,
         "name": "Gerard Nolla",
@@ -663,21 +633,22 @@
         "value_million": 102,
         "height": "1,67",
         "current_team": {
-            "text": "Porcinos FC",
-            "image": "https://transferkings.es/wp-content/uploads/2024/05/Porcinos-128x128.png"
+            "text": "Los Troncos FC",
+            "image": "https://transferkings.es/wp-content/uploads/2024/05/Los-Troncos-128x128.png"
         },
         "past_teams": [
-            "El Barrio"
+            "El Barrio",
+            "Porcinos FC"
         ],
         "birth_date": "2 de septiembre de 1998",
         "age": 26,
         "nation_text": "esp",
         "nation_image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/esp.png",
-        "current_team_text": "Porcinos FC",
-        "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Porcinos-128x128.png"
+        "current_team_text": "Los Troncos FC",
+        "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Los-Troncos-128x128.png"
     },
     {
-        "id": 24,
+        "id": 23,
         "image": "https://transferkings.es/wp-content/uploads/1984/07/Kun-Aguero-231x300.png",
         "number": 10,
         "name": "Kun Ag\u00fcero",
@@ -699,14 +670,14 @@
             "Kunisports"
         ],
         "birth_date": "2 de junio de 1988",
-        "age": 36,
+        "age": 37,
         "nation_text": "esp",
         "nation_image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/esp.png",
         "current_team_text": "Kunisports",
         "current_team_image": "https://transferkings.es/wp-content/uploads/2025/02/kunisports-128x128.png"
     },
     {
-        "id": 25,
+        "id": 24,
         "image": "https://transferkings.es/wp-content/uploads/1982/08/carlos-corvo-231x300.png",
         "number": 12,
         "name": "Carlos Corvo",
@@ -735,7 +706,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/02/1k-nuevo-128x128.png"
     },
     {
-        "id": 26,
+        "id": 25,
         "image": "https://transferkings.es/wp-content/uploads/1984/11/mikel-rico-231x300.png",
         "number": 17,
         "name": "Mikel Rico",
@@ -764,7 +735,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Porcinos-128x128.png"
     },
     {
-        "id": 27,
+        "id": 26,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/marc-valiente.png",
         "number": 4,
         "name": "Marc Valiente",
@@ -792,7 +763,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/El-Barrio-128x128.png"
     },
     {
-        "id": 28,
+        "id": 27,
         "image": "https://transferkings.es/wp-content/uploads/1995/01/luis-garcia-231x300.png",
         "number": 10,
         "name": "Luis Garc\u00eda",
@@ -806,21 +777,22 @@
         "value_million": 92,
         "height": "1,74",
         "current_team": {
-            "text": "PIO FC",
-            "image": "https://transferkings.es/wp-content/uploads/2024/05/PIO-128x128.png"
+            "text": "Kunisports",
+            "image": "https://transferkings.es/wp-content/uploads/2025/02/kunisports-128x128.png"
         },
         "past_teams": [
-            "Jijantes FC"
+            "Jijantes FC",
+            "PIO FC"
         ],
         "birth_date": "25 de enero de 1995",
         "age": 30,
         "nation_text": "esp",
         "nation_image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/esp.png",
-        "current_team_text": "PIO FC",
-        "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/PIO-128x128.png"
+        "current_team_text": "Kunisports",
+        "current_team_image": "https://transferkings.es/wp-content/uploads/2025/02/kunisports-128x128.png"
     },
     {
-        "id": 29,
+        "id": 28,
         "image": "https://transferkings.es/wp-content/uploads/1998/08/Aitor-Vives-231x300.png",
         "number": 17,
         "name": "Aitor Vives",
@@ -832,7 +804,7 @@
             "Defensa",
             "Banda"
         ],
-        "value_million": 93,
+        "value_million": 91,
         "height": "1,68",
         "current_team": {
             "text": "Saiyans FC",
@@ -841,6 +813,7 @@
         "past_teams": [
             "Espa\u00f1a",
             "Los Troncos FC",
+            "Miami 7",
             "Ultimate M\u00f3stoles"
         ],
         "birth_date": "6 de agosto de 1998",
@@ -851,7 +824,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Saiyans-128x128.png"
     },
     {
-        "id": 30,
+        "id": 29,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/victor-oribe.png",
         "number": 8,
         "name": "V\u00edctor Oribe",
@@ -881,7 +854,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/xBuyer-Team-128x128.png"
     },
     {
-        "id": 31,
+        "id": 30,
         "image": "https://transferkings.es/wp-content/uploads/1992/01/Sergio-Juste-231x300.png",
         "number": 21,
         "name": "Sergio Juste",
@@ -909,7 +882,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Saiyans-128x128.png"
     },
     {
-        "id": 32,
+        "id": 31,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/hugo-fraile.png",
         "number": 7,
         "name": "Hugo Fraile",
@@ -938,8 +911,8 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Aniquiladores-128x128.png"
     },
     {
-        "id": 33,
-        "image": "https://transferkings.es/wp-content/uploads/2024/04/roger-carbo.png",
+        "id": 32,
+        "image": "https://transferkings.es/wp-content/uploads/2024/04/roger-carbo.png.webp",
         "number": 11,
         "name": "Roger Carb\u00f3",
         "nation": {
@@ -960,14 +933,14 @@
             "xBuyer Team"
         ],
         "birth_date": "4 de junio de 1998",
-        "age": 26,
+        "age": 27,
         "nation_text": "esp",
         "nation_image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/esp.png",
         "current_team_text": "Bolsa draft Espa\u00f1a",
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/09/logo-kings-league-103x128.png"
     },
     {
-        "id": 34,
+        "id": 33,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/marc-briones.png",
         "number": 1,
         "name": "Marc Briones",
@@ -978,16 +951,16 @@
         "position": [
             "Portero"
         ],
-        "value_million": 91,
+        "value_million": 90,
         "height": "1,84",
         "current_team": {
             "text": "Saiyans FC",
             "image": "https://transferkings.es/wp-content/uploads/2024/05/Saiyans-128x128.png"
         },
         "past_teams": [
+            "Miami 7",
             "PIO FC",
-            "Porcinos FC",
-            "Saiyans FC"
+            "Porcinos FC"
         ],
         "birth_date": "27 de junio de 1998",
         "age": 26,
@@ -997,7 +970,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Saiyans-128x128.png"
     },
     {
-        "id": 35,
+        "id": 34,
         "image": "https://transferkings.es/wp-content/uploads/1988/09/aridai-cabrera-1-231x300.png",
         "number": 7,
         "name": "Aridai Cabrera",
@@ -1026,7 +999,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/PIO-128x128.png"
     },
     {
-        "id": 36,
+        "id": 35,
         "image": "https://transferkings.es/wp-content/uploads/1996/11/alvaro-arche.png",
         "number": 8,
         "name": "\u00c1lvaro Arch\u00e9",
@@ -1055,7 +1028,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2025/02/kunisports-128x128.png"
     },
     {
-        "id": 37,
+        "id": 36,
         "image": "https://transferkings.es/wp-content/uploads/1998/02/gerard-verge.png",
         "number": 23,
         "name": "Gerard Verg\u00e9",
@@ -1084,7 +1057,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/02/1k-nuevo-128x128.png"
     },
     {
-        "id": 38,
+        "id": 37,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/david-soriano.png",
         "number": 5,
         "name": "David Soriano",
@@ -1112,7 +1085,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Los-Troncos-128x128.png"
     },
     {
-        "id": 39,
+        "id": 38,
         "image": "https://transferkings.es/wp-content/uploads/1997/08/Juanan-Gallego-1-231x300.png",
         "number": 15,
         "name": "Juanan Gallego",
@@ -1123,14 +1096,14 @@
         "position": [
             "Banda"
         ],
-        "value_million": 89,
+        "value_million": 90,
         "height": null,
         "current_team": {
             "text": "Saiyans FC",
             "image": "https://transferkings.es/wp-content/uploads/2024/05/Saiyans-128x128.png"
         },
         "past_teams": [
-            ""
+            "Miami 7"
         ],
         "birth_date": "23 de agosto de 1997",
         "age": 27,
@@ -1140,7 +1113,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Saiyans-128x128.png"
     },
     {
-        "id": 40,
+        "id": 39,
         "image": "https://transferkings.es/wp-content/uploads/1989/10/Gerard-Oliva-231x300.png",
         "number": 99,
         "name": "Gerard Oliva",
@@ -1168,7 +1141,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Rayo-de-Barcelona-128x128.png"
     },
     {
-        "id": 41,
+        "id": 40,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/jero-martin.png",
         "number": 11,
         "name": "Jero Mart\u00edn",
@@ -1179,13 +1152,14 @@
         "position": [
             "Banda"
         ],
-        "value_million": 82,
+        "value_million": 78,
         "height": "1,75",
         "current_team": {
             "text": "Saiyans FC",
             "image": "https://transferkings.es/wp-content/uploads/2024/05/Saiyans-128x128.png"
         },
         "past_teams": [
+            "Miami 7",
             "PIO FC",
             "Rayo de Barcelona"
         ],
@@ -1197,7 +1171,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Saiyans-128x128.png"
     },
     {
-        "id": 42,
+        "id": 41,
         "image": "https://transferkings.es/wp-content/uploads/2002/02/robert-vallribera-1-231x300.png",
         "number": 11,
         "name": "Robert Vallribera",
@@ -1209,11 +1183,11 @@
             "Defensa",
             "Banda"
         ],
-        "value_million": 88,
+        "value_million": 87,
         "height": "1,73",
         "current_team": {
-            "text": "El Barrio",
-            "image": "https://transferkings.es/wp-content/uploads/2024/05/El-Barrio-128x128.png"
+            "text": "El Barrio, Gal\u00e1cticos del Caribe",
+            "image": null
         },
         "past_teams": [
             "Kunisports"
@@ -1222,11 +1196,11 @@
         "age": 23,
         "nation_text": "esp",
         "nation_image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/esp.png",
-        "current_team_text": "El Barrio",
-        "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/El-Barrio-128x128.png"
+        "current_team_text": "El Barrio, Gal\u00e1cticos del Caribe",
+        "current_team_image": null
     },
     {
-        "id": 43,
+        "id": 42,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/171614249.png",
         "number": 13,
         "name": "Jos\u00e9 Segovia",
@@ -1255,7 +1229,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Ultimate-Mostoles-128x128.png"
     },
     {
-        "id": 44,
+        "id": 43,
         "image": "https://transferkings.es/wp-content/uploads/2003/06/Pol-Oretaga2-231x300.png",
         "number": 18,
         "name": "Pol Ortega",
@@ -1283,7 +1257,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Jijantes-128x128.png"
     },
     {
-        "id": 45,
+        "id": 44,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/adri-gimeno.png",
         "number": 6,
         "name": "Adri Gimeno",
@@ -1312,7 +1286,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/xBuyer-Team-128x128.png"
     },
     {
-        "id": 46,
+        "id": 45,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/919819576.png",
         "number": 10,
         "name": "Abraham Gonz\u00e1lez",
@@ -1344,7 +1318,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Rayo-de-Barcelona-128x128.png"
     },
     {
-        "id": 47,
+        "id": 46,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/eloy-amoedo.png",
         "number": 25,
         "name": "Eloy Amoedo",
@@ -1355,7 +1329,7 @@
         "position": [
             "Portero"
         ],
-        "value_million": 80,
+        "value_million": 83,
         "height": "1,71",
         "current_team": {
             "text": "Los Troncos FC",
@@ -1373,7 +1347,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Los-Troncos-128x128.png"
     },
     {
-        "id": 48,
+        "id": 47,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/609646295.png",
         "number": 1,
         "name": "Alberto Arnalot",
@@ -1401,7 +1375,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Rayo-de-Barcelona-128x128.png"
     },
     {
-        "id": 49,
+        "id": 48,
         "image": "https://transferkings.es/wp-content/uploads/1992/07/Victor-Mongil-231x300.png",
         "number": 4,
         "name": "V\u00edctor Mongil",
@@ -1431,10 +1405,10 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/02/1k-nuevo-128x128.png"
     },
     {
-        "id": 50,
+        "id": 49,
         "image": "https://transferkings.es/wp-content/uploads/1997/03/adri-lledo.png",
         "number": 22,
-        "name": "Adri\u00e1n Lled\u00f3",
+        "name": "Adri Lled\u00f3",
         "nation": {
             "text": "esp",
             "image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/esp.png"
@@ -1449,7 +1423,7 @@
             "image": "https://transferkings.es/wp-content/uploads/2024/05/Porcinos-128x128.png"
         },
         "past_teams": [
-            "Porcinos FC"
+            ""
         ],
         "birth_date": "3 de marzo de 1997",
         "age": 28,
@@ -1459,7 +1433,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Porcinos-128x128.png"
     },
     {
-        "id": 51,
+        "id": 50,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/linares.png",
         "number": 10,
         "name": "Dani Li\u00f1ares",
@@ -1471,7 +1445,7 @@
             "Medio",
             "Banda"
         ],
-        "value_million": 89,
+        "value_million": 88,
         "height": "1,71",
         "current_team": {
             "text": "Ultimate M\u00f3stoles",
@@ -1489,7 +1463,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Ultimate-Mostoles-128x128.png"
     },
     {
-        "id": 52,
+        "id": 51,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/dani-perez.png",
         "number": 5,
         "name": "Dani P\u00e9rez",
@@ -1503,8 +1477,8 @@
         "value_million": 80,
         "height": "1,74",
         "current_team": {
-            "text": "Rayo de Barcelona",
-            "image": "https://transferkings.es/wp-content/uploads/2024/05/Rayo-de-Barcelona-128x128.png"
+            "text": "Rayo de Barcelona, Zaytouna FC",
+            "image": null
         },
         "past_teams": [
             "xBuyer Team"
@@ -1513,11 +1487,11 @@
         "age": 28,
         "nation_text": "esp",
         "nation_image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/esp.png",
-        "current_team_text": "Rayo de Barcelona",
-        "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Rayo-de-Barcelona-128x128.png"
+        "current_team_text": "Rayo de Barcelona, Zaytouna FC",
+        "current_team_image": null
     },
     {
-        "id": 53,
+        "id": 52,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/david-lopez-garcia.png",
         "number": 19,
         "name": "David L\u00f3pez Garc\u00eda",
@@ -1546,7 +1520,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Rayo-de-Barcelona-128x128.png"
     },
     {
-        "id": 54,
+        "id": 53,
         "image": "https://transferkings.es/wp-content/uploads/1994/07/xavi-pluvins-1-231x300.png",
         "number": 7,
         "name": "Xavi Pluvins",
@@ -1574,7 +1548,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/El-Barrio-128x128.png"
     },
     {
-        "id": 55,
+        "id": 54,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/499435164.png",
         "number": 25,
         "name": "Dani P\u00e9rez",
@@ -1605,7 +1579,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/PIO-128x128.png"
     },
     {
-        "id": 56,
+        "id": 55,
         "image": "https://transferkings.es/wp-content/uploads/1999/11/aleix-lage.png",
         "number": 6,
         "name": "Aleix Lage",
@@ -1633,7 +1607,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Ultimate-Mostoles-128x128.png"
     },
     {
-        "id": 57,
+        "id": 56,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/oscar-coll.png",
         "number": 10,
         "name": "\u00d3scar Coll",
@@ -1661,7 +1635,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Porcinos-128x128.png"
     },
     {
-        "id": 58,
+        "id": 57,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/manu-martin.png",
         "number": 13,
         "name": "Manu Mart\u00edn",
@@ -1689,7 +1663,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/xBuyer-Team-128x128.png"
     },
     {
-        "id": 59,
+        "id": 58,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/307167217.png",
         "number": 12,
         "name": "Gerard Vacas",
@@ -1717,7 +1691,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Porcinos-128x128.png"
     },
     {
-        "id": 60,
+        "id": 59,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/victor-cocera.png",
         "number": 1,
         "name": "V\u00edctor C\u00f3cera",
@@ -1746,7 +1720,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/09/logo-kings-league-103x128.png"
     },
     {
-        "id": 61,
+        "id": 60,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/carlitos-val-1.png",
         "number": 4,
         "name": "Carlitos Val",
@@ -1776,7 +1750,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Aniquiladores-128x128.png"
     },
     {
-        "id": 62,
+        "id": 61,
         "image": "https://transferkings.es/wp-content/uploads/1999/11/aleix-marti.png",
         "number": 7,
         "name": "Aleix Mart\u00ed",
@@ -1791,8 +1765,8 @@
         "value_million": 75,
         "height": "1,73",
         "current_team": {
-            "text": "Rayo de Barcelona",
-            "image": "https://transferkings.es/wp-content/uploads/2024/05/Rayo-de-Barcelona-128x128.png"
+            "text": "Jynxzi FC, Rayo de Barcelona",
+            "image": null
         },
         "past_teams": [
             "Ultimate M\u00f3stoles"
@@ -1801,11 +1775,11 @@
         "age": 20,
         "nation_text": "esp",
         "nation_image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/esp.png",
-        "current_team_text": "Rayo de Barcelona",
-        "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Rayo-de-Barcelona-128x128.png"
+        "current_team_text": "Jynxzi FC, Rayo de Barcelona",
+        "current_team_image": null
     },
     {
-        "id": 63,
+        "id": 62,
         "image": "https://transferkings.es/wp-content/uploads/1994/12/chcechi-costa-231x300.png",
         "number": 10,
         "name": "Chechi Costa",
@@ -1834,7 +1808,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Rayo-de-Barcelona-128x128.png"
     },
     {
-        "id": 64,
+        "id": 63,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/marc-torrejon.png",
         "number": 25,
         "name": "Marc Torrej\u00f3n",
@@ -1863,7 +1837,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/02/1k-nuevo-128x128.png"
     },
     {
-        "id": 65,
+        "id": 64,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/jorge-ibanez.png",
         "number": 1,
         "name": "Jorge Ib\u00e1\u00f1ez",
@@ -1892,7 +1866,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2025/02/kunisports-128x128.png"
     },
     {
-        "id": 66,
+        "id": 65,
         "image": "https://transferkings.es/wp-content/uploads/1997/07/Carlos-Martinez-1-231x300.png",
         "number": 22,
         "name": "Carlos Mart\u00ednez",
@@ -1920,7 +1894,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Jijantes-128x128.png"
     },
     {
-        "id": 67,
+        "id": 66,
         "image": "https://transferkings.es/wp-content/uploads/1999/07/marc-grifell-1-231x300.png",
         "number": 6,
         "name": "Marc Grifell",
@@ -1948,7 +1922,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/PIO-128x128.png"
     },
     {
-        "id": 68,
+        "id": 67,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/mario-reyes.png",
         "number": 22,
         "name": "Mario Reyes",
@@ -1959,7 +1933,7 @@
         "position": [
             "Defensa"
         ],
-        "value_million": 72,
+        "value_million": 73,
         "height": "1,72",
         "current_team": {
             "text": "Ultimate M\u00f3stoles",
@@ -1970,14 +1944,14 @@
             "Rayo de Barcelona"
         ],
         "birth_date": "26 de mayo de 1991",
-        "age": 33,
+        "age": 34,
         "nation_text": "esp",
         "nation_image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/esp.png",
         "current_team_text": "Ultimate M\u00f3stoles",
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Ultimate-Mostoles-128x128.png"
     },
     {
-        "id": 69,
+        "id": 68,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/dani-santiago.png",
         "number": 4,
         "name": "Dani Santiago",
@@ -2005,7 +1979,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/xBuyer-Team-128x128.png"
     },
     {
-        "id": 70,
+        "id": 69,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/nil-ayats.png",
         "number": 7,
         "name": "Nil Ayats",
@@ -2033,7 +2007,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Jijantes-128x128.png"
     },
     {
-        "id": 71,
+        "id": 70,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/pere-martinez.png",
         "number": 24,
         "name": "Pere Mart\u00ednez",
@@ -2061,7 +2035,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/xBuyer-Team-128x128.png"
     },
     {
-        "id": 72,
+        "id": 71,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/571685787.png",
         "number": 34,
         "name": "Pol Zapata",
@@ -2090,7 +2064,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2025/02/kunisports-128x128.png"
     },
     {
-        "id": 73,
+        "id": 72,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/pablo-fernandez.png",
         "number": 21,
         "name": "Pablo Fern\u00e1ndez",
@@ -2111,14 +2085,14 @@
             "Saiyans FC"
         ],
         "birth_date": "30 de mayo de 1996",
-        "age": 28,
+        "age": 29,
         "nation_text": "esp",
         "nation_image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/esp.png",
         "current_team_text": "PIO FC",
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/PIO-128x128.png"
     },
     {
-        "id": 74,
+        "id": 73,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/juanma.png",
         "number": 22,
         "name": "Juanma Gonz\u00e1lez",
@@ -2148,7 +2122,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/xBuyer-Team-128x128.png"
     },
     {
-        "id": 75,
+        "id": 74,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/pol-lechuga.png",
         "number": 23,
         "name": "Pol Lechuga",
@@ -2178,7 +2152,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/02/1k-nuevo-128x128.png"
     },
     {
-        "id": 76,
+        "id": 75,
         "image": "https://transferkings.es/wp-content/uploads/1994/05/hugo-eyre-1-231x300.png",
         "number": 31,
         "name": "Hugo Eyre",
@@ -2206,7 +2180,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/El-Barrio-128x128.png"
     },
     {
-        "id": 77,
+        "id": 76,
         "image": "https://transferkings.es/wp-content/uploads/1995/07/david-picon-1-231x300.png",
         "number": 5,
         "name": "David Pic\u00f3n",
@@ -2234,7 +2208,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/xBuyer-Team-128x128.png"
     },
     {
-        "id": 78,
+        "id": 77,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/capi.png",
         "number": 13,
         "name": "Capi Guti\u00e9rrez",
@@ -2262,7 +2236,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Porcinos-128x128.png"
     },
     {
-        "id": 79,
+        "id": 78,
         "image": "https://transferkings.es/wp-content/uploads/1981/09/rafa-leva.png",
         "number": 1,
         "name": "Rafa Leva",
@@ -2290,7 +2264,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/El-Barrio-128x128.png"
     },
     {
-        "id": 80,
+        "id": 79,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/ian-gonzalez.png",
         "number": 3,
         "name": "Ian Gonz\u00e1lez",
@@ -2319,7 +2293,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2025/02/kunisports-128x128.png"
     },
     {
-        "id": 81,
+        "id": 80,
         "image": "https://transferkings.es/wp-content/uploads/1988/10/Alexander-Szymanowski-2-231x300.png",
         "number": 11,
         "name": "Alexander Szymanowski",
@@ -2347,7 +2321,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/02/1k-nuevo-128x128.png"
     },
     {
-        "id": 82,
+        "id": 81,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/adrian-frutos.png",
         "number": 22,
         "name": "Adri\u00e1n Frutos",
@@ -2375,7 +2349,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Porcinos-128x128.png"
     },
     {
-        "id": 83,
+        "id": 82,
         "image": "https://transferkings.es/wp-content/uploads/2024/10/roger-panades.png",
         "number": 5,
         "name": "Roger Panad\u00e9s",
@@ -2404,7 +2378,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/El-Barrio-128x128.png"
     },
     {
-        "id": 84,
+        "id": 83,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/paufer.png",
         "number": 6,
         "name": "Pau Fer",
@@ -2426,14 +2400,14 @@
             "PIO FC"
         ],
         "birth_date": "25 de mayo de 2001",
-        "age": 23,
+        "age": 24,
         "nation_text": "esp",
         "nation_image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/esp.png",
         "current_team_text": "Jijantes FC",
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Jijantes-128x128.png"
     },
     {
-        "id": 85,
+        "id": 84,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/gabriel-vidal.png",
         "number": 7,
         "name": "Gabriel Vidal",
@@ -2463,7 +2437,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/09/logo-kings-league-103x128.png"
     },
     {
-        "id": 86,
+        "id": 85,
         "image": "https://transferkings.es/wp-content/uploads/2001/10/dieguito-jimenez-231x300.png",
         "number": 7,
         "name": "Dieguito Jim\u00e9nez",
@@ -2474,7 +2448,7 @@
         "position": [
             "Delantero"
         ],
-        "value_million": 60,
+        "value_million": 62,
         "height": "1,81",
         "current_team": {
             "text": "Los Troncos FC",
@@ -2491,7 +2465,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Los-Troncos-128x128.png"
     },
     {
-        "id": 87,
+        "id": 86,
         "image": "https://transferkings.es/wp-content/uploads/2003/01/Moshin-El-Haji-231x300.png",
         "number": 8,
         "name": "Moshin El Haji",
@@ -2519,7 +2493,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/02/1k-nuevo-128x128.png"
     },
     {
-        "id": 88,
+        "id": 87,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/espinar.png",
         "number": 10,
         "name": "Adri\u00e1n Espinar",
@@ -2547,7 +2521,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Saiyans-128x128.png"
     },
     {
-        "id": 89,
+        "id": 88,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/omabegho.png",
         "number": 14,
         "name": "Carlos Omabegho",
@@ -2577,7 +2551,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2025/02/kunisports-128x128.png"
     },
     {
-        "id": 90,
+        "id": 89,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/pol-roman.png",
         "number": 4,
         "name": "Pol Rom\u00e1n",
@@ -2606,7 +2580,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2025/02/kunisports-128x128.png"
     },
     {
-        "id": 91,
+        "id": 90,
         "image": "https://transferkings.es/wp-content/uploads/1999/11/dani-marti.png",
         "number": 5,
         "name": "Dani Mart\u00ed",
@@ -2634,7 +2608,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Jijantes-128x128.png"
     },
     {
-        "id": 92,
+        "id": 91,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/ivan-perez.png",
         "number": 9,
         "name": "Iv\u00e1n P\u00e9rez",
@@ -2664,7 +2638,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/09/logo-kings-league-103x128.png"
     },
     {
-        "id": 93,
+        "id": 92,
         "image": "https://transferkings.es/wp-content/uploads/1999/11/feliu.png",
         "number": 20,
         "name": "Feliu Torrus",
@@ -2696,7 +2670,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/02/1k-nuevo-128x128.png"
     },
     {
-        "id": 94,
+        "id": 93,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/sergi-aguilar.png",
         "number": 25,
         "name": "Sergi Aguilar",
@@ -2719,14 +2693,14 @@
             "Porcinos FC"
         ],
         "birth_date": "8 de junio de 1995",
-        "age": 29,
+        "age": 30,
         "nation_text": "esp",
         "nation_image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/esp.png",
         "current_team_text": "xBuyer Team",
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/xBuyer-Team-128x128.png"
     },
     {
-        "id": 95,
+        "id": 94,
         "image": "https://transferkings.es/wp-content/uploads/1992/01/cristian-faura.png",
         "number": 23,
         "name": "Cristian Faura",
@@ -2754,7 +2728,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2025/02/kunisports-128x128.png"
     },
     {
-        "id": 96,
+        "id": 95,
         "image": "https://transferkings.es/wp-content/uploads/2001/05/Alex-Domingo-231x300.png",
         "number": 11,
         "name": "\u00c1lex Domingo",
@@ -2775,14 +2749,14 @@
             "Ultimate M\u00f3stoles"
         ],
         "birth_date": "25 de mayo de 2001",
-        "age": 23,
+        "age": 24,
         "nation_text": "esp",
         "nation_image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/esp.png",
         "current_team_text": "Jijantes FC",
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Jijantes-128x128.png"
     },
     {
-        "id": 97,
+        "id": 96,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/mini-bartu.png",
         "number": 90,
         "name": "Mini Bartu",
@@ -2812,7 +2786,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2025/02/kunisports-128x128.png"
     },
     {
-        "id": 98,
+        "id": 97,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/antoni-hernandez.png",
         "number": 8,
         "name": "Antoni Hern\u00e1ndez",
@@ -2840,7 +2814,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/El-Barrio-128x128.png"
     },
     {
-        "id": 99,
+        "id": 98,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/nacho-berche.png",
         "number": 1,
         "name": "Nacho Berch\u00e9",
@@ -2870,7 +2844,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/09/logo-kings-league-103x128.png"
     },
     {
-        "id": 100,
+        "id": 99,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/david-gallego.png",
         "number": 3,
         "name": "David Gallego",
@@ -2898,7 +2872,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Saiyans-128x128.png"
     },
     {
-        "id": 101,
+        "id": 100,
         "image": "https://transferkings.es/wp-content/uploads/2000/04/alex-campu.png",
         "number": 4,
         "name": "\u00c1lex Campu",
@@ -2927,7 +2901,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/PIO-128x128.png"
     },
     {
-        "id": 102,
+        "id": 101,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/guillem-zz.png",
         "number": 19,
         "name": "Guillem ZZ",
@@ -2957,7 +2931,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2025/02/kunisports-128x128.png"
     },
     {
-        "id": 103,
+        "id": 102,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/alfons-serra.png",
         "number": 21,
         "name": "Alfons Serra",
@@ -2986,7 +2960,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/09/logo-kings-league-103x128.png"
     },
     {
-        "id": 104,
+        "id": 103,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/carlos-contreras.png",
         "number": 7,
         "name": "Carlos Contreras",
@@ -3016,7 +2990,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Saiyans-128x128.png"
     },
     {
-        "id": 105,
+        "id": 104,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/oriol-boada.png",
         "number": 9,
         "name": "Oriol Boada",
@@ -3027,7 +3001,7 @@
         "position": [
             "Delantero"
         ],
-        "value_million": 51,
+        "value_million": 53,
         "height": "1,78",
         "current_team": {
             "text": "Los Troncos FC",
@@ -3045,7 +3019,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Los-Troncos-128x128.png"
     },
     {
-        "id": 106,
+        "id": 105,
         "image": "https://transferkings.es/wp-content/uploads/2004/04/pablo-lopez-1-231x300.png",
         "number": 11,
         "name": "Pablo L\u00f3pez",
@@ -3073,7 +3047,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Jijantes-128x128.png"
     },
     {
-        "id": 107,
+        "id": 106,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/adria-parra.png",
         "number": 4,
         "name": "Adri\u00e0 Parra",
@@ -3102,7 +3076,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/El-Barrio-128x128.png"
     },
     {
-        "id": 108,
+        "id": 107,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/jacobo.png",
         "number": 14,
         "name": "Jacobo Liencres",
@@ -3132,7 +3106,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/xBuyer-Team-128x128.png"
     },
     {
-        "id": 109,
+        "id": 108,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/joan-ines.png",
         "number": 8,
         "name": "Joan In\u00e9s",
@@ -3161,7 +3135,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/09/logo-kings-league-103x128.png"
     },
     {
-        "id": 110,
+        "id": 109,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/joan-poch.png",
         "number": 9,
         "name": "Joan Poch",
@@ -3192,7 +3166,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/09/logo-kings-league-103x128.png"
     },
     {
-        "id": 111,
+        "id": 110,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/inaki-villalba.png",
         "number": 20,
         "name": "I\u00f1aki Villalba",
@@ -3222,7 +3196,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/El-Barrio-128x128.png"
     },
     {
-        "id": 112,
+        "id": 111,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/alex-romero.png",
         "number": 23,
         "name": "\u00c1lex Romero",
@@ -3250,7 +3224,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Aniquiladores-128x128.png"
     },
     {
-        "id": 113,
+        "id": 112,
         "image": "https://transferkings.es/wp-content/uploads/1999/11/eloy-pizarro.png",
         "number": 66,
         "name": "Eloy Pizarro",
@@ -3278,7 +3252,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Aniquiladores-128x128.png"
     },
     {
-        "id": 114,
+        "id": 113,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/cardenas.png",
         "number": 5,
         "name": "David C\u00e1rdenas",
@@ -3306,7 +3280,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/09/logo-kings-league-103x128.png"
     },
     {
-        "id": 115,
+        "id": 114,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/casi-ruiz.png",
         "number": 7,
         "name": "Casi Ruiz",
@@ -3327,14 +3301,14 @@
             "Aniquiladores FC"
         ],
         "birth_date": "8 de junio de 1993",
-        "age": 31,
+        "age": 32,
         "nation_text": "esp",
         "nation_image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/esp.png",
         "current_team_text": "1K FC",
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/02/1k-nuevo-128x128.png"
     },
     {
-        "id": 116,
+        "id": 115,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/guerrero.png",
         "number": 22,
         "name": "Marcos Guerrero",
@@ -3365,7 +3339,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Rayo-de-Barcelona-128x128.png"
     },
     {
-        "id": 117,
+        "id": 116,
         "image": "https://transferkings.es/wp-content/uploads/2000/02/dadid-reyes-231x300.png",
         "number": 29,
         "name": "David Reyes",
@@ -3374,9 +3348,9 @@
             "image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/esp.png"
         },
         "position": [
-            "Delantero"
+            "Banda"
         ],
-        "value_million": 47,
+        "value_million": 49,
         "height": "1,80",
         "current_team": {
             "text": "Los Troncos FC",
@@ -3393,7 +3367,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Los-Troncos-128x128.png"
     },
     {
-        "id": 118,
+        "id": 117,
         "image": "https://transferkings.es/wp-content/uploads/1999/11/banuls.png",
         "number": 3,
         "name": "Joel Ba\u00f1uls",
@@ -3423,7 +3397,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/PIO-128x128.png"
     },
     {
-        "id": 119,
+        "id": 118,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/iker-gonzalez.png",
         "number": 8,
         "name": "Iker Gonz\u00e1lez",
@@ -3452,7 +3426,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/PIO-128x128.png"
     },
     {
-        "id": 120,
+        "id": 119,
         "image": "https://transferkings.es/wp-content/uploads/1998/03/pau-zz-2.png",
         "number": 19,
         "name": "Pau ZZ",
@@ -3482,7 +3456,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Rayo-de-Barcelona-128x128.png"
     },
     {
-        "id": 121,
+        "id": 120,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/gesti.png",
         "number": 77,
         "name": "Sergi Gest\u00ed",
@@ -3493,7 +3467,7 @@
         "position": [
             "Banda"
         ],
-        "value_million": 48,
+        "value_million": 47,
         "height": "1,73",
         "current_team": {
             "text": "Ultimate M\u00f3stoles",
@@ -3511,7 +3485,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Ultimate-Mostoles-128x128.png"
     },
     {
-        "id": 122,
+        "id": 121,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/pluvins.png",
         "number": 77,
         "name": "Marc Pluvins",
@@ -3541,7 +3515,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/El-Barrio-128x128.png"
     },
     {
-        "id": 123,
+        "id": 122,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/david-lopez-garcia.png",
         "number": 19,
         "name": "David L\u00f3pez Garc\u00eda",
@@ -3570,7 +3544,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Rayo-de-Barcelona-128x128.png"
     },
     {
-        "id": 124,
+        "id": 123,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/isaac-maldonado.png",
         "number": 8,
         "name": "Isaac Maldonado",
@@ -3598,7 +3572,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Saiyans-128x128.png"
     },
     {
-        "id": 125,
+        "id": 124,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/iker-alcarazo.png",
         "number": 9,
         "name": "Iker Alcarazo",
@@ -3626,7 +3600,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/xBuyer-Team-128x128.png"
     },
     {
-        "id": 126,
+        "id": 125,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/sep.png",
         "number": 13,
         "name": "Sep Corderas",
@@ -3656,7 +3630,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Rayo-de-Barcelona-128x128.png"
     },
     {
-        "id": 127,
+        "id": 126,
         "image": "https://transferkings.es/wp-content/uploads/1997/04/juanpe-nzo.png",
         "number": 20,
         "name": "Juanpe Nzo",
@@ -3684,7 +3658,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Rayo-de-Barcelona-128x128.png"
     },
     {
-        "id": 128,
+        "id": 127,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/torrentbo.png",
         "number": 21,
         "name": "Carlos Torrentb\u00f3",
@@ -3714,7 +3688,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Porcinos-128x128.png"
     },
     {
-        "id": 129,
+        "id": 128,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/franky.png",
         "number": 30,
         "name": "Franky Purt\u00ed",
@@ -3743,7 +3717,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/02/1k-nuevo-128x128.png"
     },
     {
-        "id": 130,
+        "id": 129,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/daniel-quesada.png",
         "number": 49,
         "name": "Dani Quesada",
@@ -3772,7 +3746,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Los-Troncos-128x128.png"
     },
     {
-        "id": 131,
+        "id": 130,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/dalmau.png",
         "number": 8,
         "name": "Albert Dalmau",
@@ -3800,7 +3774,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Rayo-de-Barcelona-128x128.png"
     },
     {
-        "id": 132,
+        "id": 131,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/dorkis.png",
         "number": 11,
         "name": "Dorkis P\u00e9rez",
@@ -3830,7 +3804,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/09/logo-kings-league-103x128.png"
     },
     {
-        "id": 133,
+        "id": 132,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/cokita.png",
         "number": 14,
         "name": "Iv\u00e1n Cokita",
@@ -3860,7 +3834,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Saiyans-128x128.png"
     },
     {
-        "id": 134,
+        "id": 133,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/aaron-ropero.png",
         "number": 16,
         "name": "Aaron Ropero",
@@ -3888,7 +3862,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/02/1k-nuevo-128x128.png"
     },
     {
-        "id": 135,
+        "id": 134,
         "image": "https://transferkings.es/wp-content/uploads/2000/05/noel-lopez-1.png",
         "number": 23,
         "name": "Noel L\u00f3pez",
@@ -3918,7 +3892,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/PIO-128x128.png"
     },
     {
-        "id": 136,
+        "id": 135,
         "image": "https://transferkings.es/wp-content/uploads/2000/10/izan-espinosa.png",
         "number": 24,
         "name": "Izan Espinosa",
@@ -3946,7 +3920,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/02/1k-nuevo-128x128.png"
     },
     {
-        "id": 137,
+        "id": 136,
         "image": "https://transferkings.es/wp-content/uploads/2003/11/Oscar-Girones-231x300.png",
         "number": 6,
         "name": "\u00d3scar Giron\u00e9s",
@@ -3974,7 +3948,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Saiyans-128x128.png"
     },
     {
-        "id": 138,
+        "id": 137,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/mark-sorroche.png",
         "number": 9,
         "name": "Mark Sorroche",
@@ -4004,36 +3978,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/El-Barrio-128x128.png"
     },
     {
-        "id": 139,
-        "image": "https://transferkings.es/wp-content/uploads/1992/03/gerardo-lugo.png",
-        "number": 23,
-        "name": "Gerardo Lugo",
-        "nation": {
-            "text": "esp",
-            "image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/esp.png"
-        },
-        "position": [
-            "Medio"
-        ],
-        "value_million": 43,
-        "height": "1,82",
-        "current_team": {
-            "text": "Peluche Caligari",
-            "image": "https://transferkings.es/wp-content/uploads/2024/05/peluche-111x128.png"
-        },
-        "past_teams": [
-            "Gal\u00e1cticos del Caribe",
-            "Muchachos FC"
-        ],
-        "birth_date": "31 de diciembre de 1984",
-        "age": 40,
-        "nation_text": "esp",
-        "nation_image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/esp.png",
-        "current_team_text": "Peluche Caligari",
-        "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/peluche-111x128.png"
-    },
-    {
-        "id": 140,
+        "id": 138,
         "image": "https://transferkings.es/wp-content/uploads/2004/10/ian-benamon-2-231x300.png",
         "number": 30,
         "name": "Ian Benamon",
@@ -4061,7 +4006,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/El-Barrio-128x128.png"
     },
     {
-        "id": 141,
+        "id": 139,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/roman-alegre.png",
         "number": 0,
         "name": "Rom\u00e1n Alegre",
@@ -4092,7 +4037,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/El-Barrio-128x128.png"
     },
     {
-        "id": 142,
+        "id": 140,
         "image": "https://transferkings.es/wp-content/uploads/2003/10/aleix-hernando-231x300.png",
         "number": 11,
         "name": "Aleix Hernando",
@@ -4121,7 +4066,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Ultimate-Mostoles-128x128.png"
     },
     {
-        "id": 143,
+        "id": 141,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/sergi-cabre.png",
         "number": 20,
         "name": "Sergi Cabr\u00e9",
@@ -4149,7 +4094,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/09/logo-kings-league-103x128.png"
     },
     {
-        "id": 144,
+        "id": 142,
         "image": "https://transferkings.es/wp-content/uploads/1999/11/mase.png",
         "number": 4,
         "name": "Aleix Mase",
@@ -4171,14 +4116,14 @@
             "Ultimate M\u00f3stoles"
         ],
         "birth_date": "23 de mayo de 1995",
-        "age": 29,
+        "age": 30,
         "nation_text": "esp",
         "nation_image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/esp.png",
         "current_team_text": "Bolsa draft Espa\u00f1a",
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/09/logo-kings-league-103x128.png"
     },
     {
-        "id": 145,
+        "id": 143,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/alejandro-megia.png",
         "number": 5,
         "name": "Jandro Meg\u00eda",
@@ -4207,7 +4152,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/PIO-128x128.png"
     },
     {
-        "id": 146,
+        "id": 144,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/cubedo.png",
         "number": 4,
         "name": "\u00c1lex Cubedo",
@@ -4218,7 +4163,7 @@
         "position": [
             "Defensa"
         ],
-        "value_million": 40,
+        "value_million": 42,
         "height": "1,81",
         "current_team": {
             "text": "Los Troncos FC",
@@ -4228,14 +4173,14 @@
             ""
         ],
         "birth_date": "29 de mayo de 1999",
-        "age": 25,
+        "age": 26,
         "nation_text": "esp",
         "nation_image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/esp.png",
         "current_team_text": "Los Troncos FC",
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Los-Troncos-128x128.png"
     },
     {
-        "id": 147,
+        "id": 145,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/adria-escribano.png",
         "number": 13,
         "name": "Adri\u00e0 Escribano",
@@ -4264,7 +4209,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2025/02/kunisports-128x128.png"
     },
     {
-        "id": 148,
+        "id": 146,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/ruggeri.png",
         "number": 55,
         "name": "Flavio Ruggeri",
@@ -4295,7 +4240,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/09/logo-kings-league-103x128.png"
     },
     {
-        "id": 149,
+        "id": 147,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/jordi-ros.png",
         "number": 14,
         "name": "Jordi Ros",
@@ -4326,7 +4271,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/02/1k-nuevo-128x128.png"
     },
     {
-        "id": 150,
+        "id": 148,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/alsina.png",
         "number": 8,
         "name": "Lluis Alsina",
@@ -4356,7 +4301,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Los-Troncos-128x128.png"
     },
     {
-        "id": 151,
+        "id": 149,
         "image": "https://transferkings.es/wp-content/uploads/2003/09/dani-plaza.png",
         "number": 8,
         "name": "Dani Plaza",
@@ -4385,7 +4330,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Jijantes-128x128.png"
     },
     {
-        "id": 152,
+        "id": 150,
         "image": "https://transferkings.es/wp-content/uploads/1998/07/marc-pilar.png",
         "number": 9,
         "name": "Marc Pilar",
@@ -4413,7 +4358,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Jijantes-128x128.png"
     },
     {
-        "id": 153,
+        "id": 151,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/litus-ferres.png",
         "number": 19,
         "name": "Litus Ferres",
@@ -4424,7 +4369,7 @@
         "position": [
             "Banda"
         ],
-        "value_million": 36,
+        "value_million": 34,
         "height": "1,73",
         "current_team": {
             "text": "Los Troncos FC",
@@ -4441,7 +4386,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Los-Troncos-128x128.png"
     },
     {
-        "id": 154,
+        "id": 152,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/john-de-la-cruz.png",
         "number": 8,
         "name": "John de la Cruz",
@@ -4470,7 +4415,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/09/logo-kings-league-103x128.png"
     },
     {
-        "id": 155,
+        "id": 153,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/sergio-sanchez.png",
         "number": 11,
         "name": "Sergio S\u00e1nchez",
@@ -4499,7 +4444,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Porcinos-128x128.png"
     },
     {
-        "id": 156,
+        "id": 154,
         "image": "https://transferkings.es/wp-content/uploads/2001/10/mario-lepetit.png",
         "number": 19,
         "name": "Mario Lepetit",
@@ -4527,7 +4472,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/xBuyer-Team-128x128.png"
     },
     {
-        "id": 157,
+        "id": 155,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/lucca.png",
         "number": 22,
         "name": "Lucca Ribeiro",
@@ -4556,7 +4501,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/El-Barrio-128x128.png"
     },
     {
-        "id": 158,
+        "id": 156,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/david-sanchez.png",
         "number": null,
         "name": "David S\u00e1nchez",
@@ -4586,7 +4531,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/09/logo-kings-league-103x128.png"
     },
     {
-        "id": 159,
+        "id": 157,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/liebanas.png",
         "number": 2,
         "name": "Xavi Li\u00e9banas",
@@ -4607,14 +4552,14 @@
             "El Barrio"
         ],
         "birth_date": "19 de mayo de 1997",
-        "age": 27,
+        "age": 28,
         "nation_text": "esp",
         "nation_image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/esp.png",
         "current_team_text": "Aniquiladores FC",
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Aniquiladores-128x128.png"
     },
     {
-        "id": 160,
+        "id": 158,
         "image": "https://transferkings.es/wp-content/uploads/2002/05/613fccce9bd5126c588a31e468d5f93f-removebg-preview.png",
         "number": 6,
         "name": "Pablo Saborido",
@@ -4635,14 +4580,14 @@
             ""
         ],
         "birth_date": "23 de mayo de 2002",
-        "age": 22,
+        "age": 23,
         "nation_text": "esp",
         "nation_image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/esp.png",
         "current_team_text": "El Barrio",
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/El-Barrio-128x128.png"
     },
     {
-        "id": 161,
+        "id": 159,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/david-alba.png",
         "number": 9,
         "name": "David Alba",
@@ -4670,7 +4615,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Aniquiladores-128x128.png"
     },
     {
-        "id": 162,
+        "id": 160,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/gio-ferinu.png",
         "number": 9,
         "name": "Gio Ferinu",
@@ -4699,7 +4644,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Saiyans-128x128.png"
     },
     {
-        "id": 163,
+        "id": 161,
         "image": "https://transferkings.es/wp-content/uploads/1999/11/kilian-honorato.png",
         "number": 9,
         "name": "Kilian Honorato",
@@ -4728,7 +4673,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Ultimate-Mostoles-128x128.png"
     },
     {
-        "id": 164,
+        "id": 162,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/roger-de-la-villa.png",
         "number": 14,
         "name": "Roger de la Villa",
@@ -4757,7 +4702,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Jijantes-128x128.png"
     },
     {
-        "id": 165,
+        "id": 163,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/ledo.png",
         "number": 3,
         "name": "Ra\u00fal Ledo",
@@ -4786,7 +4731,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/02/1k-nuevo-128x128.png"
     },
     {
-        "id": 166,
+        "id": 164,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/fran-rodriguez.png",
         "number": 7,
         "name": "Fran Rodr\u00edguez",
@@ -4814,7 +4759,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2025/02/kunisports-128x128.png"
     },
     {
-        "id": 167,
+        "id": 165,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/oscar-rivero.png",
         "number": 10,
         "name": "\u00d3scar Rivero",
@@ -4837,14 +4782,14 @@
             "PIO FC"
         ],
         "birth_date": "18 de mayo de 2000",
-        "age": 24,
+        "age": 25,
         "nation_text": "esp",
         "nation_image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/esp.png",
         "current_team_text": "Bolsa draft Espa\u00f1a",
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/09/logo-kings-league-103x128.png"
     },
     {
-        "id": 168,
+        "id": 166,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/bernat-rovira.png",
         "number": 31,
         "name": "Bernat Rovira",
@@ -4872,7 +4817,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/09/logo-kings-league-103x128.png"
     },
     {
-        "id": 169,
+        "id": 167,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/victor-torres.png",
         "number": 15,
         "name": "Victor Torres",
@@ -4883,7 +4828,7 @@
         "position": [
             "Defensa"
         ],
-        "value_million": 32,
+        "value_million": 31,
         "height": "1,90",
         "current_team": {
             "text": "Los Troncos FC",
@@ -4902,7 +4847,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Los-Troncos-128x128.png"
     },
     {
-        "id": 170,
+        "id": 168,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/388522610.png",
         "number": 1,
         "name": "Joan Canet",
@@ -4913,7 +4858,7 @@
         "position": [
             "Portero"
         ],
-        "value_million": 30,
+        "value_million": 28,
         "height": "1,85",
         "current_team": {
             "text": "Ultimate M\u00f3stoles",
@@ -4931,7 +4876,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Ultimate-Mostoles-128x128.png"
     },
     {
-        "id": 171,
+        "id": 169,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/albert-ruiz.png",
         "number": 9,
         "name": "Albert Ruiz",
@@ -4959,7 +4904,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/09/logo-kings-league-103x128.png"
     },
     {
-        "id": 172,
+        "id": 170,
         "image": "https://transferkings.es/wp-content/uploads/2001/11/nauzet-hernandez.png",
         "number": 11,
         "name": "Nauzet Hern\u00e1ndez",
@@ -4987,7 +4932,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Rayo-de-Barcelona-128x128.png"
     },
     {
-        "id": 173,
+        "id": 171,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/eric-simo.png",
         "number": 23,
         "name": "Eric Sim\u00f3",
@@ -5016,7 +4961,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/xBuyer-Team-128x128.png"
     },
     {
-        "id": 174,
+        "id": 172,
         "image": "https://transferkings.es/wp-content/uploads/2000/04/joselete-blanco-231x300.png",
         "number": 45,
         "name": "Joselete Blanco",
@@ -5045,7 +4990,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/09/logo-kings-league-103x128.png"
     },
     {
-        "id": 175,
+        "id": 173,
         "image": "https://transferkings.es/wp-content/uploads/2000/04/eric-lobato.png",
         "number": 9,
         "name": "Eric Lobato",
@@ -5073,7 +5018,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/PIO-128x128.png"
     },
     {
-        "id": 176,
+        "id": 174,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/maca.png",
         "number": 30,
         "name": "Joel Maca",
@@ -5103,7 +5048,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/09/logo-kings-league-103x128.png"
     },
     {
-        "id": 177,
+        "id": 175,
         "image": "https://transferkings.es/wp-content/uploads/1997/07/isaac-serna-231x300.png",
         "number": 22,
         "name": "Isaac Serna",
@@ -5131,7 +5076,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/02/1k-nuevo-128x128.png"
     },
     {
-        "id": 178,
+        "id": 176,
         "image": "https://transferkings.es/wp-content/uploads/2004/02/manuel-linares.png",
         "number": 10,
         "name": "Manuel Linares",
@@ -5159,7 +5104,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Jijantes-128x128.png"
     },
     {
-        "id": 179,
+        "id": 177,
         "image": "https://transferkings.es/wp-content/uploads/2003/04/alekay-medina.png",
         "number": 21,
         "name": "Alekay Medina",
@@ -5188,7 +5133,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/09/logo-kings-league-103x128.png"
     },
     {
-        "id": 180,
+        "id": 178,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/marc-galvany.png",
         "number": 8,
         "name": "Marc Galvany",
@@ -5218,7 +5163,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/09/logo-kings-league-103x128.png"
     },
     {
-        "id": 181,
+        "id": 179,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/uri-pons.png",
         "number": 17,
         "name": "Uri Pons",
@@ -5241,14 +5186,14 @@
             "Porcinos FC"
         ],
         "birth_date": "6 de junio de 2002",
-        "age": 22,
+        "age": 23,
         "nation_text": "esp",
         "nation_image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/esp.png",
         "current_team_text": "Bolsa draft Espa\u00f1a",
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/09/logo-kings-league-103x128.png"
     },
     {
-        "id": 182,
+        "id": 180,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/jordi-martinez-1.png",
         "number": 22,
         "name": "Jordi Mart\u00ednez",
@@ -5276,7 +5221,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/09/logo-kings-league-103x128.png"
     },
     {
-        "id": 183,
+        "id": 181,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/941218277-213x300.png",
         "number": null,
         "name": "Iu Morral",
@@ -5305,7 +5250,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/09/logo-kings-league-103x128.png"
     },
     {
-        "id": 184,
+        "id": 182,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/pau-llastarry.png",
         "number": 2,
         "name": "Pau Llastarry",
@@ -5326,14 +5271,14 @@
             "xBuyer Team"
         ],
         "birth_date": "8 de junio de 2001",
-        "age": 23,
+        "age": 24,
         "nation_text": "esp",
         "nation_image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/esp.png",
         "current_team_text": "Bolsa draft Espa\u00f1a",
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/09/logo-kings-league-103x128.png"
     },
     {
-        "id": 185,
+        "id": 183,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/iker-lopez-2.png",
         "number": 2,
         "name": "Iker L\u00f3pez",
@@ -5364,7 +5309,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/09/logo-kings-league-103x128.png"
     },
     {
-        "id": 186,
+        "id": 184,
         "image": "https://transferkings.es/wp-content/uploads/1998/08/llur-genesca.png",
         "number": null,
         "name": "Llur Genesca",
@@ -5394,7 +5339,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/09/logo-kings-league-103x128.png"
     },
     {
-        "id": 187,
+        "id": 185,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/raul-lao-213x300.png",
         "number": null,
         "name": "Ra\u00fal Lao",
@@ -5424,7 +5369,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/09/logo-kings-league-103x128.png"
     },
     {
-        "id": 188,
+        "id": 186,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/miki-213x300.png",
         "number": null,
         "name": "Miki Fern\u00e1ndez",
@@ -5453,7 +5398,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/09/logo-kings-league-103x128.png"
     },
     {
-        "id": 189,
+        "id": 187,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/ivan-dionisio.png",
         "number": 20,
         "name": "Iv\u00e1n Dionisio",
@@ -5482,7 +5427,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/PIO-128x128.png"
     },
     {
-        "id": 190,
+        "id": 188,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/118080674.png",
         "number": 27,
         "name": "Alex Garc\u00eda",
@@ -5512,7 +5457,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/09/logo-kings-league-103x128.png"
     },
     {
-        "id": 191,
+        "id": 189,
         "image": "https://transferkings.es/wp-content/uploads/1997/05/pol-agusti.png",
         "number": 1,
         "name": "Pol Agust\u00ed",
@@ -5523,7 +5468,7 @@
         "position": [
             "Portero"
         ],
-        "value_million": 20,
+        "value_million": 18,
         "height": "1,77",
         "current_team": {
             "text": "Los Troncos FC",
@@ -5533,14 +5478,14 @@
             ""
         ],
         "birth_date": "22 de mayo de 1997",
-        "age": 27,
+        "age": 28,
         "nation_text": "esp",
         "nation_image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/esp.png",
         "current_team_text": "Los Troncos FC",
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Los-Troncos-128x128.png"
     },
     {
-        "id": 192,
+        "id": 190,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/639348123.png",
         "number": 89,
         "name": "Xavi Morales",
@@ -5568,7 +5513,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/09/logo-kings-league-103x128.png"
     },
     {
-        "id": 193,
+        "id": 191,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/benjamin-sierra-213x300.png",
         "number": null,
         "name": "Benjam\u00edn Sierra",
@@ -5597,7 +5542,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/09/logo-kings-league-103x128.png"
     },
     {
-        "id": 194,
+        "id": 192,
         "image": "https://transferkings.es/wp-content/uploads/1996/08/xavi-fabra-231x300.png",
         "number": 6,
         "name": "Xavi Fabra",
@@ -5625,7 +5570,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Ultimate-Mostoles-128x128.png"
     },
     {
-        "id": 195,
+        "id": 193,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/jan-coca.png",
         "number": 6,
         "name": "Jan Coca",
@@ -5655,7 +5600,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/09/logo-kings-league-103x128.png"
     },
     {
-        "id": 196,
+        "id": 194,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/ricardo-214x300.png",
         "number": null,
         "name": "Ricardo L\u00f3pez",
@@ -5683,7 +5628,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/09/logo-kings-league-103x128.png"
     },
     {
-        "id": 197,
+        "id": 195,
         "image": "https://transferkings.es/wp-content/uploads/2002/05/miguel-angel-de-la-fuente.png",
         "number": 13,
         "name": "Miguel de la Fuente",
@@ -5711,7 +5656,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/02/1k-nuevo-128x128.png"
     },
     {
-        "id": 198,
+        "id": 196,
         "image": "https://transferkings.es/wp-content/uploads/1994/12/enric-avellaneda-1.png",
         "number": 1,
         "name": "Enric Avellaneda",
@@ -5739,7 +5684,7 @@
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/PIO-128x128.png"
     },
     {
-        "id": 199,
+        "id": 197,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/ivan-fajardo.png",
         "number": 22,
         "name": "Iv\u00e1n Fajardo",
@@ -5761,14 +5706,14 @@
             "Los Troncos FC"
         ],
         "birth_date": "22 de mayo de 1997",
-        "age": 27,
+        "age": 28,
         "nation_text": "esp",
         "nation_image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/esp.png",
         "current_team_text": "Saiyans FC",
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Saiyans-128x128.png"
     },
     {
-        "id": 200,
+        "id": 198,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/850368704.png",
         "number": 1,
         "name": "Mario Le\u00f3n",
@@ -5789,14 +5734,14 @@
             ""
         ],
         "birth_date": "25 de mayo de 1983",
-        "age": 41,
+        "age": 42,
         "nation_text": "esp",
         "nation_image": "https://transferkings.es/wp-content/plugins/sportspress-pro/includes/sportspress/assets/images/flags/esp.png",
         "current_team_text": "Jijantes FC",
         "current_team_image": "https://transferkings.es/wp-content/uploads/2024/05/Jijantes-128x128.png"
     },
     {
-        "id": 201,
+        "id": 199,
         "image": "https://transferkings.es/wp-content/uploads/2024/04/alberto-lopo.png",
         "number": 4,
         "name": "Alberto Lopo",

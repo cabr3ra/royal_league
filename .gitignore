@@ -37,10 +37,6 @@ Thumbs.db
 *.sqlite3
 db.sqlite3
 
-# Celery beat schedule file
-celerybeat-schedule*
-celerybeat-schedule.*
-
 # Coverage reports
 htmlcov/
 .coverage
@@ -56,3 +52,6 @@ local_settings.py
 
 # Scraper script
 scraper.py
+
+# Generate split script
+generate_split.py

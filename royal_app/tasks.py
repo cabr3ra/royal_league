@@ -1,11 +1,8 @@
 # Import necessary modules
 import random
-from celery import shared_task
 from .models import Player, DailyPlayer, Career, DailyCareer, Attempt
 from datetime import date
 
-# This is a task that Celery will run in the background
-@shared_task
 def generate_daily_player():
     # Get all players from the database
     all_players = Player.objects.all()
@@ -26,8 +23,6 @@ def generate_daily_player():
 
     return f"Daily player: {random_player.name}"
 
-# This is another task that Celery will run in the background
-@shared_task
 def generate_daily_career():
     # Get all players from the database
     all_players = Player.objects.all()
@@ -61,7 +56,6 @@ def generate_daily_career():
 
     return f"Daily career: {random_player.name}"
 
-@shared_task
 def generate_daily_attempts():
     # If it already exists, do nothing; otherwise, create it with 7 attempts.
     attempt, created = Attempt.objects.get_or_create(

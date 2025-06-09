@@ -12,7 +12,6 @@ https://docs.djangoproject.com/en/5.1/ref/settings/
 
 import os
 from pathlib import Path
-from celery.schedules import crontab
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -40,8 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'royal_app',
-    'rest_framework',
-    'django_celery_beat',
+    'rest_framework'
 ]
 
 MIDDLEWARE = [
@@ -129,26 +127,3 @@ STATICFILES_DIRS = [
 # https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
-
-# Configuración de Celery
-CELERY_BROKER_URL = 'redis://localhost:6379/0'
-CELERY_ACCEPT_CONTENT = ['json']
-CELERY_TASK_SERIALIZER = 'json'
-
-CELERY_RESULT_BACKEND = 'redis://localhost:6379/0'
-CELERY_RESULT_SERIALIZER = 'json'
-CELERY_TIMEZONE = 'UTC'
-CELERY_BEAT_SCHEDULE = {
-    'generar-jugador-del-dia': {
-        'task': 'royal_app.tasks.generate_daily_player',
-        'schedule': crontab(minute=0, hour=23), # 23:00 UTC
-    },
-    'generar-carrera-del-dia': {
-        'task': 'royal_app.tasks.generate_daily_career',
-        'schedule': crontab(minute=0, hour=23), # 23:00 UTC
-    },
-    'generate-daily-attempts': {
-        'task': 'royal_app.tasks.generate_daily_attempts',
-        'schedule': crontab(hour=0, minute=23),  # 23:00 UTC
-    },
-}
