@@ -116,28 +116,30 @@ def get_daily_player(request):
 @api_view(['GET'])
 def get_daily_career(request):
     try:
-        daily_career = DailyCareer.objects.filter(date=datetime.date.today())
+        daily_career_entry = DailyCareer.objects.filter(date=datetime.date.today()).first()
 
-        if not daily_career.exists():
-            return Response({"error": "No career assigned"}, status=404)
+        if not daily_career_entry:
+            return Response({"error": "No daily career entry assigned for today"}, status=404)
+
+        player_of_the_day = daily_career_entry.player
 
         # Reset attempts
-        attempt, _ = Attempt.objects.get_or_create(id=1)
+        attempt, _ = Attempt.objects.get_or_create(id=1, date=datetime.date.today())
         attempt.attempts = 7
         attempt.save()
+        
+        # Serialize the player
+        serializer = PlayerSerializer(player_of_the_day)
+        
+        # Add the color field manually (not part of the model/serializer)
+        data = serializer.data
+        data['color'] = 'black'
 
-        # Create a list to hold the fake Career instances to be serialized
-        careers_to_serialize = []
-        for dc in daily_career:
-            # This is a fake Career instance, not saved to the database
-            fake_career = Career(player=dc.player, team=dc.team, season=dc.season)
-            careers_to_serialize.append(fake_career)
-
-        serializer = CareerSerializer(careers_to_serialize, many=True)
-        return Response(serializer.data)
+        return Response(data)
 
     except Exception as e:
-        return Response({"error": str(e)}, status=500)
+        print(f"Error in get_daily_career: {e}")
+        return Response({"error": f"Error getting daily career: {str(e)}"}, status=500)
 
 @api_view(['GET'])
 def get_random_player(request):
@@ -303,9 +305,14 @@ def compare_career(request):
 
             # Decrementar intentos
             decrement_attempts(request)
+            jugador = career_day.first().player
             return JsonResponse({
                 "comparacion": "No hay coincidencias en equipo y temporada",
-                "id": player_id
+                "id": player_id,
+                "image": jugador.image,
+                "name": jugador.name,
+                "color": "default",
+                "message": ""
             })
 
     except Exception as e:

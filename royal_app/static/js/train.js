@@ -279,6 +279,7 @@ document.addEventListener('DOMContentLoaded', () => {
         fetchData('/random_player/')
         .then(player => {
             randomPlayer = player;
+            console.log("Random player:", randomPlayer.name);
             updateAttempts();
         })
         .catch(console.error);
