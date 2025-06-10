@@ -125,7 +125,7 @@ USE_TZ = True
 
 STATIC_URL = 'static/'
 STATICFILES_DIRS = [
-    os.path.join(BASE_DIR, 'royal_app/static'),
+    os.path.join(BASE_DIR, 'royal_app', 'static'),
 ]
 
 if not DEBUG:
