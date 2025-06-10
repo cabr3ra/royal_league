@@ -1,0 +1,22 @@
+databases:
+  - name: royal_leaguedb # Puedes cambiar el nombre de la base de datos si quieres
+    plan: free
+    databaseName: royal_league # Este será el nombre de la DB en Render
+    user: royal_league_user # Este será el usuario de la DB en Render
+
+services:
+  - type: web
+    plan: free
+    name: royal-league-app # Este será el nombre de tu servicio web en Render (visible en la URL .onrender.com)
+    runtime: python
+    buildCommand: './build.sh'
+    startCommand: 'python -m gunicorn royal_league.asgi:application -k uvicorn.workers.UvicornWorker' # Usa 'royal_league' para tu proyecto
+    envVars:
+      - key: DATABASE_URL
+        fromDatabase:
+          name: royal_leaguedb # Debe coincidir con el 'name' de la base de datos arriba
+          property: connectionString
+      - key: SECRET_KEY
+        generateValue: true
+      - key: WEB_CONCURRENCY
+        value: 4
