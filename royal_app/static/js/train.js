@@ -60,7 +60,7 @@ document.addEventListener('DOMContentLoaded', () => {
             displayMessage(player, 'message-green');
         }, 2500);
 
-        setTimeout(resetGame, 7000);
+        setTimeout(resetGame, 8000);
     }
 
     // Show failure overlay and reset game after delay
@@ -279,7 +279,7 @@ document.addEventListener('DOMContentLoaded', () => {
         fetchData('/random_player/')
         .then(player => {
             randomPlayer = player;
-            console.log("Random player:", randomPlayer.name);
+            console.log("RP:", randomPlayer.id);
             updateAttempts();
         })
         .catch(console.error);
